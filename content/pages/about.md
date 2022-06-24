@@ -3,7 +3,7 @@ title: "Bahram Salehi"
 draft: false
 
 ---
-#### Ph.D, P.Eng., Sr.IEEE
+#### Ph.D, P.Eng., IEEE
 
 #### [Assistant Professor of Remote Sensing Engineering](https://www.esf.edu/faculty/salehi/)
 ![](/images/Salehi4.jpg)
