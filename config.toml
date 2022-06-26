@@ -1,7 +1,7 @@
 baseURL = "https://bahramesf.github.io/"
 languageCode = "en-us"
 title = "Bahram Salehi"
-theme = "hugo-cards.git"
+theme = "hugo-cards"
 paginate = 99
 
 [params]
